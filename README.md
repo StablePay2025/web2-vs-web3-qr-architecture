@@ -1,7 +1,5 @@
 # Web2 QR vs Web3 QR: Architectural Differences
 
-![Architecture Overview](assets/cover.png)
-
 From Routing Keys to Self-Contained Transaction Instructions
 
 ---
