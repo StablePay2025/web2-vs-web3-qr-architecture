@@ -1,13 +1,13 @@
 # Web2 QR vs Web3 QR: Architectural Differences
 
 > From Routing Keys to Self-Contained Transaction Instructions
-
+This document focuses on architectural concepts rather than production implementations.
 ---
 
 ## Overview
 
 This repository explores architectural differences between traditional QR payment systems and distributed transaction execution.
-This document focuses on architectural concepts rather than production implementations.
+
 ---
 
 ## Architecture
