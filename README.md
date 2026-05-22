@@ -26,9 +26,11 @@ QR → Instruction → Verification → Execution
 
 ## Documents
 
-- docs/qr-overview.md
-- docs/web2-architecture.md
-- docs/web3-architecture.md
+- [QR Evolution](docs/qr-overview.md)
+
+- [Web2 Architecture](docs/web2-architecture.md)
+
+- [Web3 Architecture](docs/web3-architecture.md)
 
 ---
 
