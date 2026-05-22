@@ -58,7 +58,6 @@ The architectural shift is not simply decentralization.
 It is a change in the role of QR itself.
 
 ```
-
 ## Documents
 
 - [QR Evolution](docs/qr-overview.md)
