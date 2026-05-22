@@ -14,15 +14,29 @@ This repository explores architectural differences between traditional QR paymen
 
 ## Architecture
 
-Web2:
+### Web2
 
-QR → Request → Server → Decision
+```text
+QR
+↓
+Request
+↓
+Server
+↓
+Decision
+```
 
-Web3:
+### Web3
 
-QR → Instruction → Verification → Execution
-
----
+```text
+QR
+↓
+Instruction
+↓
+Verification
+↓
+Execution
+```
 
 ## Documents
 
