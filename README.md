@@ -1,6 +1,6 @@
 # Web2 QR vs Web3 QR: Architectural Differences
 
-> From Routing Keys to Self-Contained Transaction Instructions
+> From Address References to Executable Transaction Instructions
 
 This document focuses on architectural concepts rather than production implementations.
 ---
@@ -13,28 +13,50 @@ This repository explores architectural differences between traditional QR paymen
 
 ## Architecture
 
-### Web2
+## Why This Difference Matters
+
+Traditional QR systems typically treat QR codes as identifiers.
+
+The QR itself does not define the transaction.
+
+Execution occurs after server interpretation.
 
 ```text
+Web2
+
 QR
 ↓
-Request
+
+Lookup
 ↓
-Server
+
+Server Decision
 ↓
-Decision
+
+Transaction
 ```
 
-### Web3
+In distributed transaction environments, the QR may carry enough context to reconstruct execution intent.
 
 ```text
+Web3
+
 QR
 ↓
-Instruction
+
+Instruction Decode
 ↓
+
 Verification
 ↓
+
 Execution
+```
+
+The architectural shift is not simply decentralization.
+
+It is a change in the role of QR itself.
+
 ```
 
 ## Documents
