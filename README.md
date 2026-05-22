@@ -60,11 +60,9 @@ It is a change in the role of QR itself.
 ```
 ## Documents
 
-- [QR Evolution](docs/qr-overview.md)
-
-- [Web2 Architecture](docs/web2-architecture.md)
-
-- [Web3 Architecture](docs/web3-architecture.md)
+- docs/qr-overview.md
+- docs/web2-architecture.md
+- docs/web3-architecture.md
 
 ---
 
